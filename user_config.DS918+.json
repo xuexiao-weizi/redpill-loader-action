@@ -7,6 +7,7 @@
   },
   "synoinfo": {
     "supportsystemperature": "no",
-    "supportsystempwarning": "no"
+    "supportsystempwarning": "no",
+    "SataPortMap": "1"
   }
 }

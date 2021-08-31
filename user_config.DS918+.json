@@ -8,6 +8,8 @@
   "synoinfo": {
     "supportsystemperature": "no",
     "supportsystempwarning": "no",
-    "SataPortMap": "1"
+    "DiskIdxMap": "OC",
+    "SataPortMap": "1",
+    "SasIdxMap": "0"
   }
 }
